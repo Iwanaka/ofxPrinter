@@ -19,6 +19,3 @@ path sample
 ofxImGui
 
 when you build for ofxPrinter-master
-
-### RICENCE
-MIT-RICENCE
