@@ -17,5 +17,4 @@ path sample
 #### Requirement
 
 ofxImGui
-
-when you build for ofxPrinter-master
+for this example
